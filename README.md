@@ -131,7 +131,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:JakariaJishan/git-flow.git
 ```
 --->
 
@@ -194,9 +194,7 @@ Example:
 
 👤 **jakaria**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/JakariaJishan)
 
 
 
@@ -209,8 +207,7 @@ Example:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[will add about us page]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,7 +227,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project then you can clone this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,7 +237,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...jakaria
+I would like to thank microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,13 +247,13 @@ I would like to thank...jakaria
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[from where you get idea to do this project]**
 
-  - [Answer_1]
+  - [this is a microverse demo project. Every microverse student have to do this. ]
 
-- **[Question_2]**
+- **[is it ok if anyone wants to clone this repository]**
 
-  - [Answer_2]
+  - [yeah, sure. it is absolutely ok. also you can make this better version.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
